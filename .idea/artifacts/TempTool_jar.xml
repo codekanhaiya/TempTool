@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TempTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TempTool_jar</output-path>
+    <root id="archive" name="TempTool.jar">
+      <element id="module-output" name="TempTool" />
+    </root>
+  </artifact>
+</component>
