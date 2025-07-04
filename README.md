@@ -8,6 +8,9 @@ A beginner-friendly JavaFX-based desktop application for converting temperatures
 
 ```
 TempTool
+|
+|── .idea/
+|
 ├── installer/
 │      ├── icon.ico
 │      └── TempTool.jar                 # Executable JAR file
