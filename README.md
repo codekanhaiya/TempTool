@@ -122,6 +122,7 @@ This project is open for educational and personal use.
 
 **Kanhaiya Gupta**  
 📧 [kanhaiyaguptaksg@gmail.com](mailto:kanhaiyaguptaksg@gmail.com)
+
 [![Website Badge](https://img.shields.io/badge/Visit-Website-blue)](http://officialkanha.epizy.com/)
 
 ---
